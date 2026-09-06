@@ -1,0 +1,1 @@
+{"name":"utinochat","version":"3.0.0","private":true,"scripts":{"dev":"next dev","build":"next build","start":"next start","deploy":"next build && wrangler deploy"},"dependencies":{"@supabase/supabase-js":"2.115.0","next":"15.5.25","react":"19.1.1","react-dom":"19.1.1"},"devDependencies":{"wrangler":"4.129.0"},"engines":{"node":">=22 <23"}}
